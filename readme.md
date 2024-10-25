@@ -2,7 +2,7 @@
 
 下面写的全没写完,只是一些大概思路
 
-[socket 学习笔记](socket.md)
+[socket 学习笔记](/socket.md)
 
 ### Part 1
 
